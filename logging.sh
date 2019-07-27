@@ -1,0 +1,1 @@
+date | who -a | uptime >>/var/log/testlog
