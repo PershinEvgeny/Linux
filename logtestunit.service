@@ -1,0 +1,5 @@
+[Unit]
+Description=log script date who uptime
+
+[Service]
+ExecStart=/usr/MFI/logging

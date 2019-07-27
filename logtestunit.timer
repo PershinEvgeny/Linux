@@ -1,0 +1,8 @@
+[Unit]
+Description=timer for logging
+
+[Timer]
+OnCalendar=*:*:00
+
+[Install]
+WantedBy=timers.target
